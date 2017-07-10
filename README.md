@@ -32,5 +32,5 @@ with a metropolitan area of over 13 million inhabitants.</p>
 
 </section>
 
-</style>
+
 </head>
