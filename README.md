@@ -1,2 +1,2 @@
 # Article
-small html coding 
+small HTML coding
